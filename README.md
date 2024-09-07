@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to Python and SQL
 - 📫 How to reach me
 -  Gmail - chintukumardlw123@gmail.com
-- Instagram - _divyanshy29
+- Instagram - divyanshutterdiaries
 
 <!---
 Divyanshy68206/Divyanshy68206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
